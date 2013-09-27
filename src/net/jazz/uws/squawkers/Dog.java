@@ -7,6 +7,7 @@ import net.jazz.uws.squawk.Squawker;
 
 /**
  * @author wasleski
+ * Kohjii
  *
  */
 public class Dog extends Squawker {
