@@ -6,7 +6,12 @@ package net.jazz.uws.squawkers;
 import net.jazz.uws.squawk.Squawker;
 
 /**
+<<<<<<< HEAD
  * @author NoriEGit
+=======
+ * @author wasleski
+ * Kohjii
+>>>>>>> refs/heads/defect_line
  *
  */
 public class Dog extends Squawker {
