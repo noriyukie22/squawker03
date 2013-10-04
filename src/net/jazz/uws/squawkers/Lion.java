@@ -6,7 +6,7 @@ package net.jazz.uws.squawkers;
 import net.jazz.uws.squawk.Squawker;
 
 /**
- * @author Kohjii
+ * @author NoriEgi
  *
  */
 public class Lion extends Squawker {

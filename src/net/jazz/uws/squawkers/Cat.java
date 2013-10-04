@@ -6,7 +6,7 @@ package net.jazz.uws.squawkers;
 import net.jazz.uws.squawk.Squawker;
 
 /**
- * @author wasleski
+ * @author NoriEgi
  *
  */
 public class Cat extends Squawker {
