@@ -5,7 +5,7 @@ package net.jazz.uws.squawk;
 
 /**
  * @author wasleski
- * test test test
+ * test test test test
  * 
  */
 public abstract class Squawker {
